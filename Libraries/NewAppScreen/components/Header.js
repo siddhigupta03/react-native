@@ -36,9 +36,7 @@ const Header = (): Node => {
             color: isDarkMode ? Colors.white : Colors.black,
           },
         ]}>
-        Welcome to
-        {'\n'}
-        React Native
+        
       </Text>
     </ImageBackground>
   );
